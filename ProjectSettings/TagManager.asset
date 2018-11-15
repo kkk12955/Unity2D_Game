@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Laser
+  - Ground
+  - fallout
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Role
+  - Button
+  - Map_ground
+  - Monster
+  - Wall
+  - Daimond
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 444686779
+    locked: 0
+  - name: Button
+    uniqueID: 1941616361
+    locked: 0
+  - name: Role
+    uniqueID: 1764855637
+    locked: 0
+  - name: Map
+    uniqueID: 448150837
+    locked: 0
+  - name: Button
+    uniqueID: 3247133515
+    locked: 0
+  - name: Daimond
+    uniqueID: 4180135187
+    locked: 0
